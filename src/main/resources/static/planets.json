@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Merkurius",
+    "diameter": 5000.3
+  },
+  {
+    "id": 2,
+    "name": "Venus",
+    "diameter": 6000.7
+  },
+  {
+    "id": 3,
+    "name": "Bumi",
+    "diameter": 7000.1
+  }
+]
